@@ -1,0 +1,137 @@
+NMFS Name,Pounds,Metric Tons,Dollars,Confidentiality
+OPAH,,,,Confidential
+SCUP,,,,Confidential
+SPOT,"5,164",2,"5,106",Public
+COBIA,"1,588",1,"5,910",Public
+SCAMP,"34,460",16,"200,943",Public
+WAHOO,"9,028",4,"31,937",Public
+BIGEYE,,,139,Public
+BOWFIN,,,,Confidential
+ESCOLAR,"1,879",1,"2,940",Public
+GRAYSBY,,,,Confidential
+HOGFISH,"7,718",4,"41,008",Public
+OILFISH,,,,Confidential
+TOMTATE,,,,Confidential
+BLUEFISH,,,,Confidential
+CONCHS **,208,0,245,Public
+"JACK, BAR",,,,Confidential
+MUMMICHOG,"35,111",16,"216,015",Public
+SQUIDS **,"5,029",2,"4,998",Public
+SWORDFISH,"721,788",327,"2,143,642",Public
+WRECKFISH,,,,Confidential
+BARRELFISH,"4,399",2,"22,886",Public
+BIGEYES **,,,,Confidential
+BUTTERFISH,,,,Confidential
+"CRAB, BLUE","3,421,731","1,552","5,641,831",Public
+"HIND, ROCK","3,487",2,"17,694",Public
+MULLETS **,,,,Confidential
+"PORGY, RED","37,063",17,"102,862",Public
+SHEEPSHEAD,,,,Confidential
+TRIPLETAIL,12,0,42,Public
+CREOLE-FISH,,,,Confidential
+DOLPHINFISH,"156,543",71,"446,617",Public
+"DRUM, BLACK",,,,Confidential
+"EEL, CONGER",,,,Confidential
+HERRINGS **,,,,Confidential
+"JACK, BLACK",,,,Confidential
+POMFRETS **,,,,Confidential
+"SHARK, BULL",,,,Confidential
+GARFISHES **,,,,Confidential
+"GROUPER, GAG","129,487",59,"768,305",Public
+"GROUPER, RED","1,341",1,"6,910",Public
+"GRUNT, WHITE","16,285",7,"26,926",Public
+"JACK, ALMACO","39,801",18,"49,845",Public
+OCTOPUSES **,,,,Confidential
+"RUNNER, BLUE",,,,Confidential
+"SHARK, LEMON",,,,Confidential
+"SHARK, TIGER",,,,Confidential
+"SNAPPER, DOG",,,,Confidential
+"SNAPPER, RED","6,140",3,"37,003",Public
+"TUNA, BIGEYE","27,165",12,"87,933",Public
+"BIGEYE, SHORT",,,,Confidential
+"COD, ATLANTIC",,,,Confidential
+"EEL, AMERICAN",,,,Confidential
+KINGFISHES **,"43,458",20,"51,453",Public
+"LIONFISH, RED","1,625",1,"8,028",Public
+"SHAD, GIZZARD","176,774",80,"55,270",Public
+"SHAD, HICKORY",,,,Confidential
+"SNAPPER, GRAY","2,700",1,"9,019",Public
+"SNAPPER, LANE",,,,Confidential
+"SNAPPER, SILK",947,0,"3,347",Public
+"TUNA, BLUEFIN","11,973",5,"50,130",Public
+"BASS, BANK SEA",,,,Confidential
+"BASS, LONGTAIL",,,,Confidential
+DOLPHINFISH **,"13,661",6,"32,343",Public
+"GROUPER, BLACK","1,372",1,"7,702",Public
+"GROUPER, SNOWY","24,477",11,"138,958",Public
+"JACK, CREVALLE",,,,Confidential
+"MACKEREL, KING","11,983",5,"26,669",Public
+"MUSSEL, RIBBED",,,,Confidential
+"PORGY, KNOBBED","7,574",3,"11,472",Public
+"SHAD, AMERICAN","123,264",56,"114,578",Public
+"SNAPPER, QUEEN",,,,Confidential
+"TILEFISH, SAND",87,0,99,Public
+"TUNA, ALBACORE","114,517",52,"51,983",Public
+"TUNA, BLACKFIN","1,143",1,"1,832",Public
+"TUNA, SKIPJACK",,,,Confidential
+"BASS, BLACK SEA","24,093",11,"65,069",Public
+"OYSTER, EASTERN","297,367",135,"3,076,802",Public
+"SHAD, THREADFIN",,,,Confidential
+"SHARK, BLACKTIP","15,664",7,"26,734",Public
+"SHARKS, MAKO **",,,,Confidential
+"SNAPPER, CUBERA","1,704",1,"5,759",Public
+"SNAPPER, MUTTON","10,474",5,"36,640",Public
+"TUNA, YELLOWFIN","30,100",14,"79,344",Public
+"BONITO, ATLANTIC","2,295",1,"1,883",Public
+"GROUPER, MARBLED",,,,Confidential
+"HOGFISH, SPANISH",,,,Confidential
+"POMPANO, AFRICAN","3,593",2,"10,583",Public
+"POMPANO, FLORIDA",,,,Confidential
+"PORGY, WHITEBONE",73,0,200,Public
+"SHARK, BLACKNOSE",,,,Confidential
+"SHARK, FINETOOTH",,,,Confidential
+"TILEFISH, GOLDEN","47,386",21,"170,391",Public
+"AMBERJACK, LESSER",,,,Confidential
+"CRABS, FIDDLER **",,,,Confidential
+"CROAKER, ATLANTIC",891,0,"1,004",Public
+"MACKEREL, SPANISH",,,,Confidential
+"PINFISH, SPOTTAIL",212,0,236,Public
+SCORPIONFISHES **,270,0,758,Public
+"SNAPPER, BLACKFIN","1,300",1,"4,303",Public
+SQUIRRELFISHES **,"1,233",1,"1,734",Public
+"TRIGGERFISH, GRAY","83,982",38,"259,947",Public
+"AMBERJACK, GREATER","100,380",46,"168,196",Public
+"FLOUNDER, SOUTHERN",,,,Confidential
+"GROUPER, YELLOWFIN",103,0,609,Public
+"RUDDERFISH, BANDED","12,039",5,"16,416",Public
+"SNAPPER, VERMILION","323,098",147,"1,321,395",Public
+"STINGRAY, SOUTHERN",,,,Confidential
+"TILEFISH, BLUELINE","9,378",4,"26,705",Public
+"TRIGGERFISH, OCEAN",,,,Confidential
+"TRIGGERFISH, QUEEN","1,509",1,"4,542",Public
+"TUNA, LITTLE TUNNY",,,,Confidential
+"WHELKS, BUSYCON **","1,237",1,"1,090",Public
+"CRAB, FLORIDA STONE","33,476",15,"135,144",Public
+"GROUPER, YELLOWEDGE","4,168",2,"26,353",Public
+"SHRIMPS, PENAEID **",,,,Confidential
+"SNAPPER, YELLOWTAIL","1,096",0,"4,188",Public
+"GROUPER, YELLOWMOUTH",,,,Confidential
+"ROSEFISH, BLACKBELLY","3,597",2,"8,022",Public
+"SHARK, MAKO, SHORTFIN","3,545",2,"3,944",Public
+"SHARKS, HAMMERHEAD **",,,,Confidential
+"CATFISHES, BULLHEAD **","1,015",0,926,Public
+"SHRIMP, ATLANIC SEABOB","1,665",1,"3,323",Public
+"SHRIMP, NORTHERN BROWN","243,927",111,"566,148",Public
+"SHRIMP, NORTHERN WHITE","2,779,388","1,261","8,420,508",Public
+"HAKES, RED AND WHITE **",99,0,113,Public
+"LOBSTER, CARIBBEAN SPINY",,,,Confidential
+"FLOUNDERS, PARALICHTHYS **","4,837",2,"24,211",Public
+"SHARK, SHARPNOSE, ATLANTIC","6,793",3,"11,857",Public
+"CLAMS, QUAHOG, MERCENARIA **","24,872",11,"228,482",Public
+"SHARK, HAMMERHEAD, SCALLOPED",,,,Confidential
+WITHHELD FOR CONFIDENTIALITY,"462,529",210,"1,106,417",Public
+"BARRACUDAS, SPHYRAENA (GENUS) **","3,287",1,"1,924",Public
+"SNAPPERS, LUTJANIDAE (FAMILY) **",,,,Confidential
+"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential
+"STINGRAYS, DASYATIDAE (FAMILY) **",,,,Confidential
+"BARRACUDAS, SPHYRAENIDAE (FAMILY) **",,,,Confidential
